@@ -1,0 +1,4 @@
+#Arquivos a serem ingnorados
+
+ambienteVirtual
+.ipynb_checkpoints
