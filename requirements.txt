@@ -18,7 +18,7 @@ cycler==0.12.1
 debugpy==1.8.0
 decorator==5.1.1
 diazo==1.5.0
-Django==1.7.11
+Django==4.2.26
 django-haystack==2.4.1
 django-hitcounter==0.1.1
 django-revproxy==0.10.0
